@@ -34,7 +34,7 @@ This guide was originally developed at the **Children's Hospital of Philadelphia
 - Environment URLs
 - Internal ticketing systems (ServiceNow)
 - Contact names and email addresses
-- Organizational names (DTS, DCAPBS, ACMIO)
+- Organizational names
 - Builder tier names ("Younglings," "Padawans," "Jedi Knights," "Jedi Masters")
 - Naming convention prefixes (`CHOP`)
 
