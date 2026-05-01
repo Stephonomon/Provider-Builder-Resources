@@ -303,6 +303,46 @@ There are tiered groups of Clinical Builders in Epic:
 | Clinical Builder | Two tickets to Security Account Administration (edit account + e_account elevation); third ticket to DBA team for TEXT access connection | ~2 weeks (longer during Epic upgrades) |
 | SmartTool/Notecraft | One ticket to Security Account Administration to create edit account | ~1 week |
 
+### Measuring Program Value
+
+Evaluating the impact of your builder program requires thinking across two dimensions: **who your builders are** and **what they are building**.
+
+#### Tracking Your Builder Population
+
+Start by maintaining a clear picture of the builder community itself. Key metrics to track include:
+
+- Total number of active builders
+- Specialties and departments represented
+- Provider types (physicians, NPs, fellows, nurses, etc.)
+- Years since initial certification (to identify those approaching recertification or needing additional support)
+
+**Recommended approaches:**
+- **Clarity extract** — Use the provider builder EMP template as your source to identify current builders in your system
+- **Reporting Workbench** — Build reports to monitor builder counts and attributes over time
+- **Radar Dashboards** — Consider building a dedicated dashboard to give leadership a live view of program size and composition
+
+> **Note:** Because builder activity occurs in the development environment, you may need to partner with your Data and Analytics team to establish a reliable pipeline for extracting this data.
+
+#### Tracking Build Activity and Quality
+
+**Quantitative tracking:**
+Content Management system reports can provide a granular view of build activity by INI type (e.g., SmartTexts, SmartForms, BPAs). This gives a useful sense of the volume and categories of build occurring across the program.
+
+**Qualitative tracking:**
+Volume alone does not reflect build quality. To get a fuller picture, consider:
+
+- **Regular builder meetings** where builders share work in progress — these create accountability and natural peer review
+- **Build purpose and outcome tracking** — document what each build was intended to address and what the measurable or intended outcome is
+- **Annual "Year in Review"** — a summary of build activity across the program, organized by specialty and patient population impact. This is a powerful tool for communicating program value to clinical and administrative leadership
+
+#### Framing the Value Case
+
+Conversations about financial return on investment — such as quantifying hours saved relative to analyst-only workflows — can be difficult to make rigorously and often distract from the program's more meaningful value proposition.
+
+A more productive framing is: **What do clinical builders bring to your IS team that would be absent without them?**
+
+Builders are subject matter experts with deep clinical expertise and firsthand workflow knowledge. This positions them to implement build that is not only technically sound but clinically meaningful — a combination that is difficult to achieve through analyst work alone. Their involvement elevates the quality and relevance of the EHR for the patient populations they serve.
+
 ---
 
 ## 4. Getting Started as a New Builder

@@ -14,7 +14,7 @@ A single, consolidated markdown document compiled from the CHOP DTS Epic Clinica
 |---|---|
 | 1. Introduction | Who builders are, program purpose, builder eligibility |
 | 2. Choosing Your Training Path | STAR WARS vs. Physician Builder — side-by-side comparison and decision guide |
-| 3. Program Policy and Governance | Builder tiers, security access by tier, approval process, Epic environments |
+| 3. Program Policy and Governance | Builder tiers, security access by tier, approval process, Epic environments, **measuring program value** |
 | 4. Getting Started | New builder onboarding checklist, first steps after account creation |
 | 5. Training and Certification | All Epic certification tracks (Physician Builder, Analytics, Healthy Planet, Clinical Content, etc.) and registration steps |
 | 6. Maintaining Certification | Continuing Epic Education (NVT and Application Essentials) requirements |
