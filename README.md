@@ -1,4 +1,4 @@
-# Provider Builder Resources
+# Provider Builder Program Resources
 
 A comprehensive reference guide for Epic Clinical Builders — covering everything from choosing a training path to building, migrating, and governing clinical content in Epic.
 
