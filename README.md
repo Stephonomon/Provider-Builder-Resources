@@ -31,10 +31,10 @@ A single, consolidated markdown document compiled from the CHOP DTS Epic Clinica
 
 This guide was originally developed at the **Children's Hospital of Philadelphia (CHOP)**. Many references are institution-specific, including:
 
-- Environment URLs (e.g., `connectqa.chop.edu`)
+- Environment URLs
 - Internal ticketing systems (ServiceNow)
 - Contact names and email addresses
-- Organizational names (DTS, DCAPBS, ACMIO)
+- Organizational names (DTS)
 - Builder tier names ("Younglings," "Padawans," "Jedi Knights," "Jedi Masters")
 - Naming convention prefixes (`CHOP`)
 
